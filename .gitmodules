@@ -1,4 +1,3 @@
-[submodule "cpyint"]
-	path = cpyint
-	url = ../connector-python-internal.git
-	branch = master
+[submodule "lib"]
+	path = lib
+	url = git@github.com:gelab/lib.git
